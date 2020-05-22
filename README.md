@@ -1,2 +1,2 @@
 # JHopskins_EDA_Lab1
-EDA Cours, of J.Hopskind at Coursera. First week lab.
+EDA Course, of J.Hopskins at Coursera. First week lab.
